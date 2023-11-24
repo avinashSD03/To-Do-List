@@ -30,3 +30,12 @@ A simple and feature-rich ToDoList website that allows users to efficiently mana
 
 9. **Delete Entire List:**
    - After completing all tasks in a list, users can delete the entire list.
+     
+## Tech Stacks Used
+
+1. HTML 
+2. CSS
+3. JavaScript
+4. NodeJS
+5. EJS
+6. PostgreSQL
